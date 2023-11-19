@@ -1,0 +1,53 @@
+* {
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+html {
+     background-color: rgb(125, 185, 14);
+     background-image: url(image/shrek-s-swamp-house-912ivi1v9qemna0n.png);
+}
+h1 {
+     font-size: 80px;
+     color: #fff;
+     text-align: center;
+     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px rgb(49, 99, 21), 0 0 20px rgb(49, 99, 21), 0 0 25px rgb(49, 99, 21), 0 0 30px rgb(49, 99, 21), 0 0 35px rgb(49, 99, 21);
+   }
+
+#title1 {
+     color: rgb(70, 95, 33);
+     text-align: center;
+     font-size: xx-large;
+}
+
+#ul1 {
+     text-decoration: none;
+     font-size: x-large;
+     text-align: center;
+     margin-left: 0px;
+     padding-left: 0px;
+}
+
+a {
+     background-color: rgb(54, 54, 54);
+     border: solid;
+     border-color: rgb(39, 39, 39);
+     border-radius: 7px;
+     color: #e6da29;
+     font-size: 47px;
+     text-decoration: none;
+     padding-left: 27px;
+     padding-right: 27px;
+     padding-top: 3px;
+     padding-bottom: 7px;
+}
+
+a:hover {
+     background: grey;
+     border-radius: 7px;
+}
+
+img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
