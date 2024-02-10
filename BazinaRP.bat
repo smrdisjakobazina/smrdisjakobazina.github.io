@@ -43,5 +43,6 @@ echo           --Pristup na Discord Server--
 echo.
 echo.
 echo.
-echo              https://dsc.gg/bazinarp
+echo  [40;37mspusta sa link...
+start https://dsc.gg/bazinarp
 pause>null
